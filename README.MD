@@ -1,18 +1,52 @@
-# 💫 About Me:
-Hi, I’m E. Spandana, an aspiring DevOps Engineer with hands-on experience in cloud computing and containerized applications. I work with AWS, Linux, Docker, Kubernetes, Terraform, and CI/CD pipelines, focusing on building scalable, reliable, and automated infrastructure.<br>I enjoy learning new technologies, solving real-world problems, and continuously improving system performance and deployment workflows.<br>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/spandanae) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@spandanaerukulla) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Spandana Erukulla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spandanaerukulla@gmail.com) 
+# 👋 Hi, I'm Spandana Erukulla
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=spandanaerukull&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=spandanaerukull&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=spandanaerukull&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🚀 Aspiring DevOps Engineer | Linux | Shell Scripting | AWS | Kubernetes | Automation
 
 ---
-[![](https://visitcount.itsvg.in/api?id=spandanaerukull&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍💻 About Me
+
+I am an aspiring **DevOps Engineer** with hands-on experience in **Linux and Bash shell scripting**, and practical exposure to DevOps tools through real-world practice projects.
+
+I have worked on **Roboshop microservices automation using shell scripts**, handling application services, databases, and supporting components.  
+I am actively learning and building skills in **AWS, Docker, Kubernetes, Terraform, and CI/CD pipelines**.
+
+---
+
+## 🛠️ Tech Stack
+
+- Linux
+- Bash / Shell Scripting
+- AWS (Basics)
+- Docker
+- Kubernetes (Beginner)
+- Terraform (Beginner)
+- Git & GitHub
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Roboshop Shell Automation
+- Automated deployment of Roboshop microservices using Bash
+- Services: frontend, catalog, cart, payment
+- Databases & tools: MongoDB, MySQL, Redis, RabbitMQ, Nginx
+
+🔗 https://github.com/spandanaerukull/Roboshop-shell
+
+---
+
+### 🔹 Shell Scripting Practice
+- Bash scripts covering variables, conditions, arrays, functions
+- Linux automation and installation scripts
+
+🔗 https://github.com/spandanaerukull/shell-practice
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/spandanae
+- 💻 GitHub: https://github.com/spandanaerukull
