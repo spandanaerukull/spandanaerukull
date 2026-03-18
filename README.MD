@@ -21,7 +21,7 @@ I enjoy automating deployments, managing infrastructure, and learning real-world
 
 ## 🛠 Tech Stack
 
-- **Cloud:** AWS   
+- **Cloud:** AWS 
 - **OS:** Linux, Windows
 - **CI/CD:** Jenkins, GitHub Actions
 - **IaC:** Terraform, Ansible
