@@ -30,6 +30,12 @@ I enjoy automating deployments, managing infrastructure, and learning real-world
 - **Monitoring:** Prometheus, Grafana
 - **Version Control:** Git, GitHub
 
+## ⚙️ Skills Showcase
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,jenkins,terraform,ansible,git,github,bash,vscode,prometheus,grafana" />
+</p>
+
 ---
 
 ## 🔧 What I Do
